@@ -4,9 +4,7 @@
 </p>
 
 <!-- Animated Role Line -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F97316&vCenter=true&width=1000&lines=Product+Strategist+•+UX+Researcher+•+Data+Storyteller" alt="Typing SVG" />
-</p>
+<h4 align="center">Product Strategist • UX Researcher • Data Storyteller</h4>
 
 ---
 
