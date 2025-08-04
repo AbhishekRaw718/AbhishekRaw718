@@ -1,58 +1,59 @@
+<!-- Animated Name Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abhishek+Rawal alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&lines=✋+Hey+there!+Abhishek+here" alt="Typing SVG" />
 </p>
 
-<h4 align="center">Product Strategist • UX Researcher • Data Storyteller</h4>
+<!-- Static Professional Tagline -->
+<h3 align="center">
+  Product Strategy | UX Research | Data Analysis | Business Intelligence
+</h3>
 
 ---
 
-🎓 **Recent Graduate**, M.S. in Engineering Management @UMass Amherst  
-📜 Certified in **Project Management and Leadership**, PML, Agile  
-🌍 Worked across 🇮🇳 India, 🇸🇬 Singapore, 🇻🇳 Vietnam on real-world product & user research challenges
+🎓 **Graduate in Engineering Management** from UMass Amherst  
+🧠 Certified in Agile, Strategic Product Management & Data-Driven Leadership  
+🌍 Delivered market-validated insights across India, Singapore, and Vietnam  
+🔥 I'm not just solving problems—I’m solving the right problems faster than most
 
 ---
 
-### 🔭 What I'm Working On
-- 🔌 **API-Driven MVPs** – Building lean integrations to drive faster iteration and better scalability  
-- 🎯 **User Research Sprints** – Turning FGDs, IDIs, and survey data into product insights  
-- 📊 **Data-Backed Product Decisions** – Leveraging SQL, Tableau, and regression analysis to guide roadmaps  
+### 🚀 What I Bring
+I lead with logic, research with empathy, and build with intent.  
+From decoding 20,000+ consumer decisions to scaling GenAI MVPs, I help businesses move smart and ship fast.
 
 ---
 
-### 👨‍💻 Key Experience
-- 🧪 Led a **7-country study** to uncover consumer preferences in auto & healthcare, improving adoption by 23%  
-- 🧠 Conducted 75+ IDIs and 15+ FGDs across industries to validate positioning and reduce usability friction  
-- 💼 Defined GTM & pricing strategies using **forced-choice modeling**, SPSS, and Tableau dashboards  
-- 📈 Managed internal product rollouts, boosting survey tool adoption by 24.5% through usability and ops alignment  
+### 💥 Results That Speak
+- 📊 7-country research transformed GTM decisions—led to 23% higher adoption  
+- 🔄 Raised client retention by 17% by aligning product with real user behaviors  
+- 🧪 Designed 100+ hours of interviews and testing that directly shaped roadmaps  
+- 📈 Built dashboards used by C-suites to drive growth in auto, health & edtech sectors  
+- 🚀 Rolled out internal tools with 24.5% usage lift, influencing how ops scale impact
 
 ---
 
-### 💬 Ask Me About
-- Product Discovery • UX Research • Market Sizing • API Optimization  
-- SQL • Python • Tableau • Excel • SPSS • Figma • Notion • Jira  
-- Frameworks: JTBD • AARRR • HEART • SWOT • Design Thinking  
+### 🧰 What I Use to Get There
+**Research & Strategy**: UX Research · JTBD · Market Sizing · Behavioral Modeling  
+**Analytics**: SQL · Python · Tableau · Excel · SPSS · R  
+**Execution & Ops**: Notion · Jira · Figma · Postman · Agile PM · Design Thinking  
+**Frameworks**: HEART · AARRR · SWOT · RICE · Kano
 
 ---
 
-### 🌱 Currently Learning
-- Product Analytics using **Mixpanel** & **Amplitude**  
-- Scalable backend documentation with **Postman + Notion**  
-- Agile backlog management & sprint optimization  
+### 💬 Let’s Talk If You're Looking For:
+- A strategist who respects data but listens to people  
+- A researcher who makes insights actionable  
+- A builder who cares more about outcomes than output
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Reach Me
 📧 [adrawal2510@gmail.com](mailto:adrawal2510@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-rawal-2510/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-rawal-2510/)
 
 ---
 
-### ⚡ Fun Fact
-I’ve interviewed 100+ stakeholders across 3 continents—and still get excited every time a user says “Oh! That’s exactly the problem.” 🤓
-
----
-
-### 🛠️ Tools & Tech Stack
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
