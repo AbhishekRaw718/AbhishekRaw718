@@ -1,62 +1,59 @@
-<!-- Animated Name with Waving Emoji -->
+<!-- Animated Greeting -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=✋+Hey+there!+Abhishek+here" alt="Typing SVG" />
 </p>
 
-<!-- Colorful Animated Roles -->
+<!-- Animated Role Line -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F97316&vCenter=true&width=1000&lines=Product+Strategist+•+UX+Researcher+•+Data+Storyteller" alt="Typing SVG" />
 </p>
 
 ---
 
-🎓 **Recent Graduate**, M.S. in Engineering Management @UMass Amherst  
-📜 Certified in **Project Management and Leadership**, PML, Agile  
-🌍 Worked across 🇮🇳 India, 🇸🇬 Singapore, 🇻🇳 Vietnam on real-world product & user research challenges
+🎓 **Engineering Management Graduate** from UMass Amherst  
+🛠 Certified in Agile, Product Management, and Strategic Leadership  
+🌍 Shaped product decisions across India, Singapore, and Vietnam
 
 ---
 
-### 🔭 What I'm Working On
-- 🔌 **API-Driven MVPs** – Building lean integrations to drive faster iteration and better scalability  
-- 🎯 **User Research Sprints** – Turning FGDs, IDIs, and survey data into product insights  
-- 📊 **Data-Backed Product Decisions** – Leveraging SQL, Tableau, and regression analysis to guide roadmaps  
+### 🚀 About Me
+I turn data into direction and users into advocates.  
+With 1+ year of experience leading user research and product validation across industries, I’ve helped companies unlock market growth, optimize features, and reduce product risk.
+
+I don’t just study user behavior—I shape it.  
+From building deepfake detection APIs to leading a 7-country consumer study, my work has informed GTM strategies, increased adoption by up to 24%, and aligned multi-functional teams toward outcomes that scale.
 
 ---
 
-### 👨‍💻 Key Experience
-- 🧪 Led a **7-country study** to uncover consumer preferences in auto & healthcare, improving adoption by 23%  
-- 🧠 Conducted 75+ IDIs and 15+ FGDs across industries to validate positioning and reduce usability friction  
-- 💼 Defined GTM & pricing strategies using **forced-choice modeling**, SPSS, and Tableau dashboards  
-- 📈 Managed internal product rollouts, boosting survey tool adoption by 24.5% through usability and ops alignment  
+### 🧠 Impact Highlights
+- 📈 **Boosted adoption by 24.5%** through research-led product rollout for internal ops team  
+- 🧪 Led **120+ hours** of interviews and testing to reduce usability friction and improve roadmap accuracy  
+- 🌐 Conducted primary research across **7 South & Southeast Asian markets** to drive region-specific feature development  
+- 💡 Created Tableau & SPSS dashboards used for **C-suite product strategy** in automotive and healthcare sectors  
+- 🔁 Improved client retention by **17%** by diagnosing behavioral gaps and aligning product vision
 
 ---
 
-### 💬 Ask Me About
-- Product Discovery • UX Research • Market Sizing • API Optimization  
-- SQL • Python • Tableau • Excel • SPSS • Figma • Notion • Jira  
-- Frameworks: JTBD • AARRR • HEART • SWOT • Design Thinking  
+### 🧰 Skills & Tools
+**Research & Product**: UX Research • Product Discovery • Market Sizing • VoC Analysis • Competitive Benchmarking  
+**Data & Analytics**: SQL • Python • SPSS • Tableau • Excel • R • A/B Testing  
+**PM & Tools**: Figma • Jira • Notion • Trello • Agile • Postman • Design Thinking  
+**Frameworks**: JTBD • HEART • AARRR • SWOT • RICE
 
 ---
 
-### 🌱 Currently Learning
-- Product Analytics using **Mixpanel** & **Amplitude**  
-- Scalable backend documentation with **Postman + Notion**  
-- Agile backlog management & sprint optimization  
-
----
-
-### 📫 How to Reach Me
+### 📫 Let’s Connect
 📧 [adrawal2510@gmail.com](mailto:adrawal2510@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-rawal-2510/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-rawal-2510/)
 
 ---
 
 ### ⚡ Fun Fact
-I’ve interviewed 100+ stakeholders across 3 continents—and still get excited every time a user says “Oh! That’s exactly the problem.” 🤓
+I bring strategy to chaos—whether I’m running stakeholder interviews across 3 countries or optimizing a user journey at 2 AM.
 
 ---
 
-### 🛠️ Tools & Tech Stack
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
