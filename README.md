@@ -1,8 +1,12 @@
+<!-- Animated Name with Waving Emoji -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Hey+there!+Abhishek+here" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=✋+Hey+there!+Abhishek+here" alt="Typing SVG" />
 </p>
 
-<h4 align="center">Product Strategist • UX Researcher • Data Storyteller</h4>
+<!-- Colorful Animated Roles -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F97316&vCenter=true&width=1000&lines=Product+Strategist+•+UX+Researcher+•+Data+Storyteller" alt="Typing SVG" />
+</p>
 
 ---
 
